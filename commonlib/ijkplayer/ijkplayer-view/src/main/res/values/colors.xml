@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ijkplayer_light_blue">#2dabff</color>
+    <color name="ijkplayer_media_controller_bg">#99000000</color>
+    <color name="ijkplayer_white">#FFFFFF</color>
+</resources>

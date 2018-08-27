@@ -1,0 +1,12 @@
+<resources>
+
+
+    <!-- video player -->
+    <dimen name="mediacontroller_buttons_top_margin">2dp</dimen>
+    <dimen name="mediacontroller_bottom_layout_center_margin">12dp</dimen>
+    <dimen name="mediacontroller_bottom_layout_danmaku_padding">3dp</dimen>
+
+
+
+
+</resources>
